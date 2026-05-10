@@ -82,8 +82,8 @@ The ELV token powers the ELVOR ecosystem.
 |---|---:|---:|---|---|---:|---|---|
 | Ecosystem Rewards | 22% | 2,200,000,000 ELV | `7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1` | `ADD_STREAMFLOW_WALLET` | 0% | 3 months | 48 months linear |
 | AI & Trading Incentives | 18% | 1,800,000,000 ELV | `BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ` | `ADD_STREAMFLOW_WALLET` | 5% | 1 month | 36 months linear |
-| Treasury Reserve | 15% | 1,500,000,000 ELV | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | `ADD_STREAMFLOW_WALLET` | 0% | 6 months | 48 months linear / governance controlled |
-| Liquidity & Market Making | 12% | 1,200,000,000 ELV | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | `ADD_STREAMFLOW_WALLET` | 35% | 0 months | 12 months linear |
+| Treasury Reserve | 15% | 1,500,000,000 ELV | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | `ADD_STREAMFLOW_WALLET` | 0% | 6 months | 48 months linear governed by multisig treasury management |
+| Liquidity & Market Making | 12% | 1,200,000,000 ELV | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | `ADD_STREAMFLOW_WALLET` | 25% | 0 months | 12 months linear |
 | Team & Contributors | 10% | 1,000,000,000 ELV | `2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj` | `ADD_STREAMFLOW_WALLET` | 0% | 12 months | 36 months linear |
 | Strategic Investors | 8% | 800,000,000 ELV | `AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R` | `ADD_STREAMFLOW_WALLET` | 0% | 3 months | 18 months linear |
 | Marketing & Partnerships | 7% | 700,000,000 ELV | `7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1` | `ADD_STREAMFLOW_WALLET` | 5% | 1 month | 24 months linear |
@@ -114,9 +114,27 @@ Each allocation uses a dedicated Streamflow wallet and vesting contract to ensur
 | Release Frequency | Monthly |
 | Contract Visibility | Public |
 | Treasury Control | Multisig Recommended |
+| Revocable | No |
 | Team Unlock | 12 month cliff |
 | Investor Unlock | 3 month cliff |
-| Public Sale Unlock | Partial TGE + 6 months vesting |
+| Staking Unlock | 1 month cliff + 48 month controlled emissions |
+| Public Sale Unlock | 25% TGE + 6 months vesting |
+
+---
+
+# 🧾 Streamflow Contract Naming
+
+| Allocation | Streamflow Contract Name |
+|---|---|
+| Ecosystem Rewards | ELV - Ecosystem Rewards |
+| AI & Trading Incentives | ELV - AI Incentives |
+| Treasury Reserve | ELV - Treasury Reserve |
+| Liquidity & Market Making | ELV - Liquidity |
+| Team & Contributors | ELV - Team Vesting |
+| Strategic Investors | ELV - Strategic Investors |
+| Marketing & Partnerships | ELV - Marketing |
+| Staking Rewards | ELV - Staking Rewards |
+| Public Sale | ELV - Public Sale |
 
 ---
 
