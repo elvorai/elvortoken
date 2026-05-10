@@ -1,11 +1,8 @@
 <div align="center">
 
 # 🚀 ELVOR (ELV)
+
 ## AI-Native Trading Infrastructure Ecosystem on Solana
-
-<img src="assets/01_cover.png" alt="ELVOR Cover" width="100%" />
-
-<br/>
 
 [![Blockchain](https://img.shields.io/badge/Blockchain-Solana-9945FF?style=for-the-badge)](#)
 [![Token](https://img.shields.io/badge/Token-ELV-14F195?style=for-the-badge)](#)
@@ -17,19 +14,19 @@
 
 # 🌐 Official Ecosystem
 
-## Core Platforms
-
-- 🌍 Website: https://elvor.io
-- 🤖 AI Platform: https://elvor.ai
-- 💹 Exchange: https://elvor.net
+| Platform | Link |
+|---|---|
+| Website | https://elvor.io |
+| AI Platform | https://elvor.ai |
+| Exchange | https://elvor.net |
 
 ---
 
 # 📌 Overview
 
-**ELVOR (ELV)** is a next-generation AI-powered trading infrastructure ecosystem built on the Solana blockchain.
+**ELVOR (ELV)** is an AI-native trading infrastructure ecosystem built on the Solana blockchain.
 
-The ecosystem combines:
+ELVOR combines:
 
 - Artificial Intelligence
 - Exchange Infrastructure
@@ -41,101 +38,11 @@ The ecosystem combines:
 - Cross-Chain Liquidity
 - Mobile Trading Infrastructure
 
-Into one unified AI-native financial ecosystem.
+Into one unified AI-powered financial ecosystem.
 
 ---
 
-# 🧠 Core Ecosystem Products
-
----
-
-## 🤖 Elvor AI
-
-AI-powered trading intelligence infrastructure.
-
-### Features
-
-- AI Trading Assistant
-- AI Market Analysis
-- AI Signal Generation
-- Smart Automation
-- Portfolio Intelligence
-- AI Copilot Systems
-- Risk Analysis Engine
-- Behavioral Analytics
-- Multi-Market Scanning
-
-🔗 https://elvor.ai
-
----
-
-## 💹 Elvor Exchange
-
-Institutional-grade exchange infrastructure.
-
-### Exchange Features
-
-- Spot Trading
-- Futures Trading
-- Cross-Chain Trading
-- Institutional APIs
-- High-Speed Execution
-- Professional Order Systems
-- Liquidity Infrastructure
-- Security Monitoring
-
-🔗 https://elvor.net
-
----
-
-## 📱 Mobile Super App
-
-Unified crypto trading ecosystem.
-
-### Includes
-
-- Trading Interface
-- AI Analytics
-- Portfolio Tracking
-- Social Trading
-- Staking
-- NFT Management
-- Mini Apps
-- Notifications
-- Strategy Systems
-
----
-
-## 🖼 NFT Marketplace
-
-Utility-focused NFT ecosystem.
-
-### NFT Utilities
-
-- AI Access Passes
-- VIP Memberships
-- Trading Strategy Ownership
-- Creator Economy Systems
-- Ecosystem Collectibles
-
----
-
-## 👥 Social Trading Infrastructure
-
-### Features
-
-- Copy Trading
-- Trader Rankings
-- Strategy Monetization
-- Community Analytics
-- Leaderboards
-- Social Intelligence
-
----
-
-# ⚡ ELV Token (ELV)
-
-## Token Information
+# ⚡ ELV Token
 
 | Property | Value |
 |---|---|
@@ -149,7 +56,7 @@ Utility-focused NFT ecosystem.
 
 # 🔥 ELV Utility
 
-The ELV token powers the entire ELVOR ecosystem.
+The ELV token powers the ELVOR ecosystem.
 
 ## Utilities
 
@@ -165,29 +72,53 @@ The ELV token powers the entire ELVOR ecosystem.
 
 ---
 
-# 📊 Tokenomics Distribution
+# 📊 Tokenomics + Streamflow Vesting
 
-<div align="center">
+| Allocation | % | Tokens | Allocation Wallet | Streamflow Wallet | TGE Unlock | Cliff | Vesting |
+|---|---:|---:|---|---|---:|---|---|
+| Ecosystem Rewards | 22% | 2,200,000,000 ELV | `7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1` | `ADD_STREAMFLOW_WALLET` | 0% | 3 months | 48 months linear |
+| AI & Trading Incentives | 18% | 1,800,000,000 ELV | `BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ` | `ADD_STREAMFLOW_WALLET` | 5% | 1 month | 36 months linear |
+| Treasury Reserve | 15% | 1,500,000,000 ELV | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | `ADD_STREAMFLOW_WALLET` | 0% | 6 months | 48 months linear / governance controlled |
+| Liquidity & Market Making | 12% | 1,200,000,000 ELV | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | `ADD_STREAMFLOW_WALLET` | 35% | 0 months | 12 months linear |
+| Team & Contributors | 10% | 1,000,000,000 ELV | `2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj` | `ADD_STREAMFLOW_WALLET` | 0% | 12 months | 36 months linear |
+| Strategic Investors | 8% | 800,000,000 ELV | `AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R` | `ADD_STREAMFLOW_WALLET` | 0% | 3 months | 18 months linear |
+| Marketing & Partnerships | 7% | 700,000,000 ELV | `7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1` | `ADD_STREAMFLOW_WALLET` | 5% | 1 month | 24 months linear |
+| Staking Rewards | 5% | 500,000,000 ELV | `A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm` | `ADD_STREAMFLOW_WALLET` | 0% | 1 month | 48 months controlled emissions |
+| Public Sale | 3% | 300,000,000 ELV | `E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg` | `ADD_STREAMFLOW_WALLET` | 25% | 0 months | 6 months linear |
 
-| Allocation | Percentage |
+---
+
+# 🔐 Streamflow Vesting Standard
+
+All locked ELV allocations are managed through Streamflow vesting contracts on Solana.
+
+Each allocation uses a dedicated Streamflow wallet and vesting contract to ensure:
+
+- Transparency
+- Controlled emissions
+- Long-term ecosystem stability
+- Public unlock visibility
+- Reduced early sell pressure
+
+## Streamflow Setup
+
+| Item | Standard |
 |---|---|
-| Ecosystem Rewards | 22% |
-| AI & Trading Incentives | 18% |
-| Treasury Reserve | 15% |
-| Liquidity & Market Making | 12% |
-| Team & Contributors | 10% |
-| Strategic Investors | 8% |
-| Marketing & Partnerships | 7% |
-| Staking Rewards | 5% |
-| Public Sale | 3% |
-
-</div>
+| Network | Solana |
+| Vesting Platform | Streamflow |
+| Vesting Type | Linear Vesting |
+| Release Frequency | Monthly |
+| Contract Visibility | Public |
+| Treasury Control | Multisig Recommended |
+| Team Unlock | 12 month cliff |
+| Investor Unlock | 3 month cliff |
+| Public Sale Unlock | Partial TGE + 6 months vesting |
 
 ---
 
 # 🏗 Ecosystem Architecture
 
-The ELVOR infrastructure integrates multiple layers:
+ELVOR infrastructure includes:
 
 - AI Trading Infrastructure
 - Exchange Systems
@@ -200,41 +131,87 @@ The ELVOR infrastructure integrates multiple layers:
 
 ---
 
-# 🔐 Security Infrastructure
+# 🤖 Elvor AI
 
-ELVOR prioritizes institutional-grade security architecture.
+AI-powered trading intelligence infrastructure.
 
-## Security Features
+## Features
 
-- Cold Wallet Systems
-- Multi-Signature Treasury
-- Infrastructure Monitoring
-- Risk Detection Systems
-- Smart Contract Audits
-- Penetration Testing
-- Redundancy Infrastructure
-- Anomaly Detection
+- AI Trading Assistant
+- AI Market Analysis
+- AI Signal Generation
+- Smart Automation
+- Portfolio Intelligence
+- AI Copilot Systems
+- Risk Analysis Engine
+- Behavioral Analytics
+- Multi-Market Scanning
+
+🔗 https://elvor.ai
 
 ---
 
-# 🌍 Long-Term Vision
+# 💹 Elvor Exchange
 
-ELVOR aims to become a leading AI-native financial infrastructure ecosystem by integrating:
+Institutional-grade exchange infrastructure.
 
-- Artificial Intelligence
-- Institutional Trading Infrastructure
-- Cross-Chain Scalability
-- Smart Automation
-- Decentralized Governance
-- Global Liquidity Systems
+## Exchange Features
 
-Across major blockchain ecosystems including:
+- Spot Trading
+- Futures Trading
+- Cross-Chain Trading
+- Institutional APIs
+- High-Speed Execution
+- Professional Order Systems
+- Liquidity Infrastructure
+- Security Monitoring
 
-- Solana
-- Ethereum
-- BNB Chain
-- Arbitrum
-- Base
+🔗 https://elvor.net
+
+---
+
+# 📱 Mobile Super App
+
+Unified crypto trading ecosystem.
+
+## Includes
+
+- Trading Interface
+- AI Analytics
+- Portfolio Tracking
+- Social Trading
+- Staking
+- NFT Management
+- Mini Apps
+- Notifications
+- Strategy Systems
+
+---
+
+# 🖼 NFT Marketplace
+
+Utility-focused NFT ecosystem.
+
+## NFT Utilities
+
+- AI Access Passes
+- VIP Memberships
+- Trading Strategy Ownership
+- Creator Economy Systems
+- Ecosystem Collectibles
+
+---
+
+# 👥 Social Trading Infrastructure
+
+## Features
+
+- Copy Trading
+- Trader Rankings
+- Strategy Monetization
+- Community Analytics
+- Leaderboards
+- Social Intelligence
 
 ---
 
@@ -246,8 +223,9 @@ Across major blockchain ecosystems including:
 - AI Infrastructure
 - Exchange Architecture
 - Community Expansion
-
----
+- Treasury Setup
+- Streamflow Vesting Deployment
+- Token Security Infrastructure
 
 ## Phase 2 — Platform Expansion
 
@@ -255,17 +233,17 @@ Across major blockchain ecosystems including:
 - Exchange Beta
 - Mobile Infrastructure
 - Social Trading Systems
-
----
+- Initial Staking Systems
+- Raydium Liquidity Launch
 
 ## Phase 3 — ELV Launch
 
 - Token Generation Event
 - Liquidity Deployment
+- Jupiter Integrations
+- Public Sale
 - Staking Launch
-- DEX Integrations
-
----
+- Governance Activation
 
 ## Phase 4 — Ecosystem Scaling
 
@@ -273,31 +251,21 @@ Across major blockchain ecosystems including:
 - Cross-Chain Expansion
 - AI Marketplace
 - NFT Marketplace
-
----
+- Copy Trading Infrastructure
+- Strategy Monetization
 
 ## Phase 5 — Global Expansion
 
 - Institutional Partnerships
 - Global Community Growth
 - AI Hedge Infrastructure
+- Multi-Chain Expansion
+- DAO Governance
+- Global Liquidity Systems
 
 ---
 
-# 📈 Revenue Infrastructure
-
-Revenue sources may include:
-
-- Exchange Fees
-- AI Subscription Systems
-- NFT Marketplace Activity
-- Social Trading Infrastructure
-- Bot Marketplace Services
-- Institutional API Access
-
----
-
-# 🌐 Official Community & Socials
+# 🌐 Official Community
 
 | Platform | Link |
 |---|---|
@@ -305,31 +273,18 @@ Revenue sources may include:
 | AI Platform | https://elvor.ai |
 | Exchange | https://elvor.net |
 | Telegram | https://t.me/elvor_ai |
-| X (Twitter) | https://x.com/elvorsocial |
+| X | https://x.com/elvorsocial |
 | Discord | https://discord.gg/URUBr33Yr |
 | Medium | https://medium.com/@elvortrade |
 | Instagram | https://www.instagram.com/elvorai |
 
 ---
 
-# 📂 Token Info
-
-| Info | Details |
-|---|---|
-| Token | ELV |
-| Network | Solana |
-| Type | Utility & Governance |
-| Supply | 10,000,000,000 |
-| Utility | AI Access, Governance, Staking |
-| Ecosystem | AI Trading Infrastructure |
-
----
-
 # ⚠ Disclaimer
 
-This repository and documentation are provided for informational purposes only and do not constitute investment, financial, legal, or trading advice.
+This repository is provided for informational purposes only and does not constitute investment, financial, legal, or trading advice.
 
-Cryptocurrency investments involve significant risk, including the potential loss of capital.
+Cryptocurrency assets involve risk, including potential loss of capital.
 
 Always conduct independent research before participating in digital asset ecosystems.
 
@@ -348,7 +303,5 @@ All rights reserved.
 # 🚀 The Future of AI Trading Infrastructure
 
 ### Intelligence • Automation • Scalability • Interoperability
-
-ELVOR is designed to operate at the center of the next financial evolution.
 
 </div>
