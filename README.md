@@ -4,7 +4,9 @@
 
 ## AI-Native Trading Infrastructure Ecosystem on Solana
 
-<img src="assets/01_cover.png" alt="ELVOR Cover" width="100%" /><br/>
+<img src="assets/01_cover.png" alt="ELVOR Cover" width="100%" />
+
+<br/>
 
 [![Blockchain](https://img.shields.io/badge/Blockchain-Solana-9945FF?style=for-the-badge)](#)
 [![Token](https://img.shields.io/badge/Token-ELV-14F195?style=for-the-badge)](#)
