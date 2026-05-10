@@ -1,0 +1,59 @@
+{
+  "name": "Elvor",
+  "symbol": "ELV",
+  "description": "ELVOR (ELV) is an AI-native trading infrastructure ecosystem built on Solana integrating AI trading systems, exchange infrastructure, portfolio intelligence, social trading, automation systems, NFT utilities, and cross-chain liquidity solutions.",
+  "image": "https://YOUR_IMAGE_URL/logo.png",
+  "animation_url": "",
+  "external_url": "https://elvor.io",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Utility & Governance"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "10000000000"
+    },
+    {
+      "trait_type": "Ecosystem",
+      "value": "AI Trading Infrastructure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://YOUR_IMAGE_URL/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://elvor.io",
+    "ai_platform": "https://elvor.ai",
+    "exchange": "https://elvor.net",
+    "twitter": "https://x.com/elvorsocial",
+    "telegram": "https://t.me/elvor_ai",
+    "discord": "https://discord.gg/URUBr33Yr",
+    "medium": "https://medium.com/@elvortrade",
+    "instagram": "https://www.instagram.com/elvorai",
+    "github": "https://github.com/elvorai/elvortoken",
+    "whitepaper": "https://github.com/elvorai/elvortoken/blob/main/Whitepapre.pdf",
+    "explorer": "https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL"
+  }
+}
