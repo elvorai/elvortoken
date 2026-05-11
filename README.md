@@ -54,7 +54,7 @@ Into one unified AI-powered financial ecosystem.
 | Symbol | ELV |
 | Blockchain | Solana |
 | Token Type | Utility & Governance |
-| Total Supply | 10,000,000,000 ELV |
+| Total Supply | 10,000,000,000 ELV (10B) |
 
 ---
 
@@ -73,52 +73,53 @@ The ELV token powers the ELVOR ecosystem.
 - Ecosystem Participation
 - Trading Benefits
 - AI Infrastructure Access
+- Airdrop Campaign Participation
+- Mobile Super App Utility
 
 ---
 
-# 📊 Tokenomics + Streamflow Vesting
+# 📊 Tokenomics + Streamflow Distribution
 
-| Allocation | % | Tokens | Allocation Wallet | Streamflow Wallet | TGE Unlock | Cliff | Vesting |
+Total Supply: **10,000,000,000 ELV (10B)**
+
+| Allocation | % | Tokens | Wallet | Streamflow Product | TGE Unlock | Release Schedule | Duration |
 |---|---:|---:|---|---|---:|---|---|
-| Ecosystem Rewards | 22% | 2,200,000,000 ELV | `7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1` | `ADD_STREAMFLOW_WALLET` | 0% | 3 months | 48 months linear |
-| AI & Trading Incentives | 18% | 1,800,000,000 ELV | `BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ` | `ADD_STREAMFLOW_WALLET` | 5% | 1 month | 36 months linear |
-| Treasury Reserve | 15% | 1,500,000,000 ELV | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | `ADD_STREAMFLOW_WALLET` | 0% | 6 months | 48 months linear governed by multisig treasury management |
-| Liquidity & Market Making | 12% | 1,200,000,000 ELV | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | `ADD_STREAMFLOW_WALLET` | 25% | 0 months | 12 months linear |
-| Team & Contributors | 10% | 1,000,000,000 ELV | `2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj` | `ADD_STREAMFLOW_WALLET` | 0% | 12 months | 36 months linear |
-| Strategic Investors | 8% | 800,000,000 ELV | `AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R` | `ADD_STREAMFLOW_WALLET` | 0% | 3 months | 18 months linear |
-| Marketing & Partnerships | 7% | 700,000,000 ELV | `7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1` | `ADD_STREAMFLOW_WALLET` | 5% | 1 month | 24 months linear |
-| Staking Rewards | 5% | 500,000,000 ELV | `A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm` | `ADD_STREAMFLOW_WALLET` | 0% | 1 month | 48 months controlled emissions |
-| Public Sale | 3% | 300,000,000 ELV | `E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg` | `ADD_STREAMFLOW_WALLET` | 25% | 0 months | 6 months linear |
+| Ecosystem Rewards | 22% | 2,200,000,000 ELV (2.2B) | `7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1` | Vesting | 0 ELV (0) | Quarterly | 48 Months |
+| AI & Trading Incentives | 18% | 1,800,000,000 ELV (1.8B) | `BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ` | Vesting | 90,000,000 ELV (90M) | Monthly | 36 Months |
+| Treasury Reserve | 15% | 1,500,000,000 ELV (1.5B) | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | Token Lock / Vesting | 0 ELV (0) | Quarterly | 48 Months |
+| Liquidity & Market Making | 12% | 1,200,000,000 ELV (1.2B) | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | Vesting | 300,000,000 ELV (300M) | Monthly | 12 Months |
+| Team & Contributors | 10% | 1,000,000,000 ELV (1B) | `2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj` | Vesting | 0 ELV (0) | Quarterly | 36 Months |
+| Strategic Investors | 8% | 800,000,000 ELV (800M) | `AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R` | Vesting | 0 ELV (0) | Quarterly | 18 Months |
+| Marketing & Partnerships | 7% | 700,000,000 ELV (700M) | `7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1` | Vesting | 35,000,000 ELV (35M) | Monthly | 24 Months |
+| Staking Rewards | 5% | 500,000,000 ELV (500M) | `A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm` | Staking Rewards Pool | 0 ELV (0) | Controlled Rewards | 48 Months |
+| Public Sale | 2% | 200,000,000 ELV (200M) | `E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg` | Vesting / Claim | 50,000,000 ELV (50M) | Monthly | 6 Months |
+| Community Airdrop | 1% | 100,000,000 ELV (100M) | `3b9SNhT14ijZeXGtijZezA3otHrZjyPwT6ZN7v6eHXxN` | Vested Airdrop | 20,000,000 ELV (20M) | Monthly | 12 Months |
 
 ---
 
-# 🔐 Streamflow Vesting Standard
+# 🔐 Streamflow Distribution Standard
 
-All locked ELV allocations are managed through Streamflow vesting contracts on Solana.
+ELVOR uses Streamflow on Solana for transparent token distribution.
 
-Each allocation uses a dedicated Streamflow wallet and vesting contract to ensure:
+Streamflow is used for:
 
-- Transparency
-- Controlled emissions
-- Long-term ecosystem stability
-- Public unlock visibility
-- Reduced early sell pressure
+- Vesting Contracts
+- Token Locks
+- Staking Rewards
+- Community Airdrops
+- Public Token Claiming
+- Public Unlock Visibility
 
-## Streamflow Setup
+## Important Streamflow Notes
 
-| Item | Standard |
-|---|---|
-| Network | Solana |
-| Vesting Platform | Streamflow |
-| Vesting Type | Linear Vesting |
-| Release Frequency | Monthly |
-| Contract Visibility | Public |
-| Treasury Control | Multisig Recommended |
-| Revocable | No |
-| Team Unlock | 12 month cliff |
-| Investor Unlock | 3 month cliff |
-| Staking Unlock | 1 month cliff + 48 month controlled emissions |
-| Public Sale Unlock | 25% TGE + 6 months vesting |
+- Streamflow schedules should be configured by product type.
+- Vesting allocations use Streamflow Vesting.
+- Treasury may use Token Lock or Vesting.
+- Staking rewards use Streamflow Staking, not normal vesting.
+- Airdrop allocation uses Streamflow Airdrop or Vested Airdrop.
+- Quarterly schedules are used where quarterly release timing is required.
+- No separate “3 month unlock amount” is used.
+- All token amounts are publicly visible through Streamflow contracts.
 
 ---
 
@@ -127,14 +128,59 @@ Each allocation uses a dedicated Streamflow wallet and vesting contract to ensur
 | Allocation | Streamflow Contract Name |
 |---|---|
 | Ecosystem Rewards | ELV - Ecosystem Rewards |
-| AI & Trading Incentives | ELV - AI Incentives |
+| AI & Trading Incentives | ELV - AI Trading Incentives |
 | Treasury Reserve | ELV - Treasury Reserve |
-| Liquidity & Market Making | ELV - Liquidity |
-| Team & Contributors | ELV - Team Vesting |
+| Liquidity & Market Making | ELV - Liquidity Market Making |
+| Team & Contributors | ELV - Team Contributors |
 | Strategic Investors | ELV - Strategic Investors |
-| Marketing & Partnerships | ELV - Marketing |
-| Staking Rewards | ELV - Staking Rewards |
+| Marketing & Partnerships | ELV - Marketing Partnerships |
+| Staking Rewards | ELV - Staking Rewards Pool |
 | Public Sale | ELV - Public Sale |
+| Community Airdrop | ELV - Community Airdrop |
+
+---
+
+# 🎁 Community Airdrop
+
+The ELVOR Community Airdrop is dedicated to ecosystem growth, early users, and community participation.
+
+| Item | Details |
+|---|---|
+| Allocation | 1% |
+| Tokens | 100,000,000 ELV (100M) |
+| Airdrop Wallet | `3b9SNhT14ijZeXGtijZezA3otHrZjyPwT6ZN7v6eHXxN` |
+| Streamflow Product | Vested Airdrop |
+| TGE Claim | 20,000,000 ELV (20M) |
+| Vested Amount | 80,000,000 ELV (80M) |
+| Release Schedule | Monthly |
+| Duration | 12 Months |
+
+## Airdrop Objectives
+
+- Early Community Rewards
+- Mobile App User Incentives
+- Trading Campaigns
+- Social Engagement Rewards
+- AI Platform Beta Participation
+- NFT Holder Incentives
+- Referral Programs
+- Ecosystem Expansion
+
+---
+
+# 🥩 Staking Rewards
+
+The ELVOR staking rewards pool is designed to support long-term holders and ecosystem participation.
+
+| Item | Details |
+|---|---|
+| Allocation | 5% |
+| Tokens | 500,000,000 ELV (500M) |
+| Rewards Wallet | `A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm` |
+| Streamflow Product | Staking |
+| Reward Duration | 48 Months |
+| Reward Type | Controlled Emissions |
+| TGE Unlock | 0 ELV (0) |
 
 ---
 
@@ -264,6 +310,7 @@ Utility-focused NFT ecosystem.
 - Liquidity Deployment
 - Jupiter Integrations
 - Public Sale
+- Airdrop Campaign Launch
 - Staking Launch
 - Governance Activation
 
