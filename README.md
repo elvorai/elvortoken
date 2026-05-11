@@ -80,20 +80,20 @@ The ELV token powers the ELVOR ecosystem.
 
 # 📊 Tokenomics + Streamflow Distribution
 
-Total Supply: **10,000,000,000 ELV (10B)**
+Total Supply: **10,000,000,000 ELV**
 
 | Allocation | % | Tokens | Wallet | Streamflow Product | TGE Unlock | Release Schedule | Duration |
 |---|---:|---:|---|---|---:|---|---|
-| Ecosystem Rewards | 22% | 2,200,000,000 ELV (2.2B) | `7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1` | Vesting | 0 ELV (0) | Quarterly | 48 Months |
-| AI & Trading Incentives | 18% | 1,800,000,000 ELV (1.8B) | `BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ` | Vesting | 90,000,000 ELV (90M) | Monthly | 36 Months |
-| Treasury Reserve | 15% | 1,500,000,000 ELV (1.5B) | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | Token Lock / Vesting | 0 ELV (0) | Quarterly | 48 Months |
-| Liquidity & Market Making | 12% | 1,200,000,000 ELV (1.2B) | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | Vesting | 300,000,000 ELV (300M) | Monthly | 12 Months |
-| Team & Contributors | 10% | 1,000,000,000 ELV (1B) | `2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj` | Vesting | 0 ELV (0) | Quarterly | 36 Months |
-| Strategic Investors | 8% | 800,000,000 ELV (800M) | `AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R` | Vesting | 0 ELV (0) | Quarterly | 18 Months |
-| Marketing & Partnerships | 7% | 700,000,000 ELV (700M) | `7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1` | Vesting | 35,000,000 ELV (35M) | Monthly | 24 Months |
-| Staking Rewards | 5% | 500,000,000 ELV (500M) | `A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm` | Staking Rewards Pool | 0 ELV (0) | Controlled Rewards | 48 Months |
-| Public Sale | 2% | 200,000,000 ELV (200M) | `E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg` | Vesting / Claim | 50,000,000 ELV (50M) | Monthly | 6 Months |
-| Community Airdrop | 1% | 100,000,000 ELV (100M) | `3b9SNhT14ijZeXGtijZezA3otHrZjyPwT6ZN7v6eHXxN` | Vested Airdrop | 20,000,000 ELV (20M) | Monthly | 12 Months |
+| Ecosystem Rewards | 22% | 2,200,000,000 ELV | `7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1` | Vesting | 0 ELV | Quarterly | 48 Months |
+| AI & Trading Incentives | 18% | 1,800,000,000 ELV | `BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ` | Vesting | 90,000,000 ELV | Monthly | 36 Months |
+| Treasury Reserve | 15% | 1,500,000,000 ELV | `YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d` | Token Lock / Vesting | 0 ELV | Quarterly | 48 Months |
+| Liquidity & Market Making | 12% | 1,200,000,000 ELV | `28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF` | Vesting | 300,000,000 ELV | Monthly | 12 Months |
+| Team & Contributors | 10% | 1,000,000,000 ELV | `2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj` | Vesting | 0 ELV | Quarterly | 36 Months |
+| Strategic Investors | 8% | 800,000,000 ELV | `AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R` | Vesting | 0 ELV | Quarterly | 18 Months |
+| Marketing & Partnerships | 7% | 700,000,000 ELV | `7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1` | Vesting | 35,000,000 ELV | Monthly | 24 Months |
+| Staking Rewards | 5% | 500,000,000 ELV | `A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm` | Staking Rewards Pool | 0 ELV | Controlled Rewards | 48 Months |
+| Public Sale | 2% | 200,000,000 ELV | `E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg` | Vesting / Claim | 50,000,000 ELV | Monthly | 6 Months |
+| Community Airdrop | 1% | 100,000,000 ELV | `3b9SNhT14ijZeXGtijZezA3otHrZjyPwT6ZN7v6eHXxN` | Vested Airdrop | 20,000,000 ELV | Monthly | 12 Months |
 
 ---
 
