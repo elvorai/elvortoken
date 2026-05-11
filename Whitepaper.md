@@ -567,19 +567,37 @@ ELV powers:
 
 ---
 
-# Token Allocation
+# Token Allocation & Streamflow Distribution
 
-| Allocation | Percentage |
-|---|---|
-| Ecosystem Rewards | 22% |
-| AI & Trading Incentives | 18% |
-| Treasury Reserve | 15% |
-| Liquidity & Market Making | 12% |
-| Team & Contributors | 10% |
-| Strategic Investors | 8% |
-| Marketing & Partnerships | 7% |
-| Staking Rewards | 5% |
-| Public Sale | 3% |
+| Allocation | % | Tokens | Wallet | Streamflow / Platform Link |
+|---|---:|---:|---|---|
+| Ecosystem Rewards | 22% | 2,200,000,000 ELV | [7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1](https://solscan.io/account/7LowjVDtmNWkVJ6oKesr6HnbG3k62rVvLZGk3gdXZZd1) | [J9NcQNpaag6aj2iMo9HJ7ZA3CWQ3AtSWX8qWYdjEVjxE](https://app.streamflow.finance/contract/solana/mainnet/J9NcQNpaag6aj2iMo9HJ7ZA3CWQ3AtSWX8qWYdjEVjxE) |
+| AI & Trading Incentives | 18% | 1,800,000,000 ELV | [BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ](https://solscan.io/account/BNLR71qUaXy1zixxThwGTj9EupUkRYYPQiLetVDzLJvZ) | [AT4Du46rfvesHumowxocGcjymqECRL4mycPueaJFwEsj](https://app.streamflow.finance/contract/solana/mainnet/AT4Du46rfvesHumowxocGcjymqECRL4mycPueaJFwEsj) |
+| Treasury Reserve | 15% | 1,500,000,000 ELV | [YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d](https://solscan.io/account/YTGrUtcvstu7NQRmFLHRe72FZRJPz4UgFGNa9kpu76d) | [FHTbWwHh9LKWyTYtvmz6V7RHWRCpSBemDzm3BxVnU5i](https://app.streamflow.finance/contract/solana/mainnet/FHTbWwHh9LKWyTYtvmz6V7RHWRCpSBemDzm3BxVnU5i) |
+| Liquidity & Market Making | 12% | 1,200,000,000 ELV | [28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF](https://solscan.io/account/28BhGstCCdHyC9FQzXEUfcjh8ukpnX73BjC8LVtntEgF) | [9bLgzaq3a2djLgjKVtJ2gxmMunpbDALM5py4KwNygHQ4](https://app.streamflow.finance/contract/solana/mainnet/9bLgzaq3a2djLgjKVtJ2gxmMunpbDALM5py4KwNygHQ4) |
+| Team & Contributors | 10% | 1,000,000,000 ELV | [2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj](https://solscan.io/account/2uwQ5rS2AdmJn9Cw35GkrB9hMk9SZj7iipqqxsqEJhXj) | [HuaTvAHhCVsbeD5QKrNq7TaUAqZWCtcVnvvVzFF3WsCH](https://app.streamflow.finance/contract/solana/mainnet/HuaTvAHhCVsbeD5QKrNq7TaUAqZWCtcVnvvVzFF3WsCH) |
+| Strategic Investors | 8% | 800,000,000 ELV | [AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R](https://solscan.io/account/AjWSDMkFW4cnQuMNMBA83t6ZVLUzHpUWQvV5a6jZJB3R) | [2cwQo4hBXDbX9AZF8dHdLxhrFAF33kpUeZyi63aSCEJ7](https://app.streamflow.finance/contract/solana/mainnet/2cwQo4hBXDbX9AZF8dHdLxhrFAF33kpUeZyi63aSCEJ7) |
+| Marketing & Partnerships | 7% | 700,000,000 ELV | [7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1](https://solscan.io/account/7P6NgN3AyEyB66ZcGSCd8Zyt13RdkExpPDMfw5Xdsdd1) | [3Wr4xyX1uXTtECKthaJBCAmnLDororJe18mMatTAsxsU](https://app.streamflow.finance/contract/solana/mainnet/3Wr4xyX1uXTtECKthaJBCAmnLDororJe18mMatTAsxsU) |
+| Staking Rewards | 5% | 500,000,000 ELV | [A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm](https://solscan.io/account/A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm) | [https://elvor.net/staking](https://elvor.net/staking) |
+| Public Sale | 2% | 200,000,000 ELV | [E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg](https://solscan.io/account/E7E2Ex4od6FTHSBSNM4GMVdvH4koiX8TtkeBVJHgwfSg) | [https://elvor.net](https://elvor.net) |
+| Community Airdrop | 1% | 100,000,000 ELV | [3b9SNhT14ijZeXGtijZezA3otHrZjyPwT6ZN7v6eHXxN](https://solscan.io/account/3b9SNhT14ijZeXGtijZezA3otHrZjyPwT6ZN7v6eHXxN) | [https://elvor.net](https://elvor.net) |
+
+---
+
+# Streamflow Distribution Schedule
+
+| Allocation | Product | TGE Unlock | Release Schedule | Duration |
+|---|---|---:|---|---|
+| Ecosystem Rewards | Vesting | 0 ELV | Quarterly | 48 Months |
+| AI & Trading Incentives | Vesting | 90,000,000 ELV | Monthly | 36 Months |
+| Treasury Reserve | Token Lock / Vesting | 0 ELV | Quarterly | 48 Months |
+| Liquidity & Market Making | Vesting | 300,000,000 ELV | Monthly | 12 Months |
+| Team & Contributors | Vesting | 0 ELV | Quarterly | 36 Months |
+| Strategic Investors | Vesting | 0 ELV | Quarterly | 18 Months |
+| Marketing & Partnerships | Vesting | 35,000,000 ELV | Monthly | 24 Months |
+| Staking Rewards | Staking Rewards Pool | 0 ELV | Controlled Rewards | 48 Months |
+| Public Sale | Vesting / Claim | 50,000,000 ELV | Monthly | 6 Months |
+| Community Airdrop | Vested Airdrop | 20,000,000 ELV | Monthly | 12 Months |
 
 ---
 
@@ -599,6 +617,18 @@ Staking enables:
 - AI access tiers
 - fee reduction
 - premium ecosystem benefits
+
+---
+
+# Official Staking Platform
+
+https://elvor.net/staking
+
+---
+
+# Staking Rewards Wallet
+
+[A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm](https://solscan.io/account/A26sPCUs2rwu5gBhAfGg27KqvUz6V2Z8UTNwumHSHKHm)
 
 ---
 
@@ -660,6 +690,19 @@ Includes:
 
 ---
 
+# Streamflow Transparency
+
+ELVOR uses Streamflow on Solana for:
+- token vesting
+- treasury locks
+- staking rewards
+- public unlock transparency
+- community distribution infrastructure
+
+All Streamflow contracts are publicly visible.
+
+---
+
 # Security Infrastructure Visual
 
 ![Cybersecurity Infrastructure](assets/15_security-infrastructure.png)
@@ -674,6 +717,8 @@ Includes:
 - AI infrastructure development
 - exchange architecture
 - community expansion
+- Streamflow vesting deployment
+- token security infrastructure
 
 ---
 
@@ -683,6 +728,8 @@ Includes:
 - exchange beta systems
 - mobile app infrastructure
 - social trading deployment
+- initial staking systems
+- Raydium liquidity launch
 
 ---
 
@@ -690,8 +737,11 @@ Includes:
 
 - token generation event
 - liquidity deployment
+- Jupiter integrations
+- public sale
+- airdrop campaign launch
 - staking launch
-- DEX integration
+- governance activation
 
 ---
 
@@ -701,6 +751,8 @@ Includes:
 - cross-chain integrations
 - AI marketplace expansion
 - NFT marketplace deployment
+- copy trading infrastructure
+- strategy monetization
 
 ---
 
@@ -709,6 +761,9 @@ Includes:
 - global partnerships
 - institutional onboarding
 - AI hedge infrastructure
+- multi-chain expansion
+- DAO governance
+- global liquidity systems
 
 ---
 
@@ -856,6 +911,9 @@ https://elvor.ai
 
 ## Elvor Exchange
 https://elvor.net
+
+## Elvor Staking
+https://elvor.net/staking
 
 ---
 
