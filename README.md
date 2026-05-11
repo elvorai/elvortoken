@@ -68,12 +68,11 @@ ELVOR prioritizes public transparency, contract visibility, and ecosystem-level 
 |---|---|
 | ELV Contract Address | [7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
 | Solscan Token Info | [View ELV on Solscan](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
-| Cyberscope Cyberscan | [Scan ELV on Cyberscope](https://www.cyberscope.io/cyberscan?address=7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Cyberscope Cyberscan | [Scan ELV on Cyberscope](https://www.cyberscope.io/cyberscan?network=SOL&address=7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
 | GoPlus Solana Token Security | [Scan ELV on GoPlus](https://gopluslabs.io/en/token-security/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
 | DexScreener Token Page | [View ELV on DexScreener](https://dexscreener.com/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
 | Birdeye Token Page | [View ELV on Birdeye](https://birdeye.so/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL?chain=solana) |
 | Jupiter Token Page | [View ELV on Jupiter](https://jup.ag/tokens/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
-| CoinPlus | [CoinPlus Security Reference](https://coinplus.com) |
 | Streamflow Vesting Transparency | [View Streamflow App](https://app.streamflow.finance) |
 
 > Security reviews, audits, vesting transparency, and public contract visibility are designed to reduce risk and improve user confidence. They do not eliminate all smart contract, market, liquidity, operational, or platform risks.
