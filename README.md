@@ -23,6 +23,7 @@
 | Website | https://elvor.io |
 | AI Platform | https://elvor.ai |
 | Exchange | https://elvor.net |
+| Staking | https://elvor.net/staking |
 
 ---
 
@@ -54,7 +55,28 @@ Into one unified AI-powered financial ecosystem.
 | Symbol | ELV |
 | Blockchain | Solana |
 | Token Type | Utility & Governance |
+| Contract Address | [7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
 | Total Supply | 10,000,000,000 ELV (10B) |
+
+---
+
+# 🛡 Security & Transparency
+
+ELVOR prioritizes public transparency, contract visibility, and ecosystem-level security review.
+
+| Token / Security Page | Link |
+|---|---|
+| ELV Contract Address | [7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Solscan Token Info | [View ELV on Solscan](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Cyberscope Cyberscan | [Scan ELV on Cyberscope](https://www.cyberscope.io/cyberscan?address=7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| GoPlus Solana Token Security | [Scan ELV on GoPlus](https://gopluslabs.io/en/token-security/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| DexScreener Token Page | [View ELV on DexScreener](https://dexscreener.com/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Birdeye Token Page | [View ELV on Birdeye](https://birdeye.so/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL?chain=solana) |
+| Jupiter Token Page | [View ELV on Jupiter](https://jup.ag/tokens/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| CoinPlus | [CoinPlus Security Reference](https://coinplus.com) |
+| Streamflow Vesting Transparency | [View Streamflow App](https://app.streamflow.finance) |
+
+> Security reviews, audits, vesting transparency, and public contract visibility are designed to reduce risk and improve user confidence. They do not eliminate all smart contract, market, liquidity, operational, or platform risks.
 
 ---
 
@@ -134,9 +156,9 @@ Streamflow is used for:
 | Team & Contributors | ELV - Team Contributors | [HuaTvAHhCVsbeD5QKrNq7TaUAqZWCtcVnvvVzFF3WsCH](https://app.streamflow.finance/contract/solana/mainnet/HuaTvAHhCVsbeD5QKrNq7TaUAqZWCtcVnvvVzFF3WsCH) |
 | Strategic Investors | ELV - Strategic Investors | [2cwQo4hBXDbX9AZF8dHdLxhrFAF33kpUeZyi63aSCEJ7](https://app.streamflow.finance/contract/solana/mainnet/2cwQo4hBXDbX9AZF8dHdLxhrFAF33kpUeZyi63aSCEJ7) |
 | Marketing & Partnerships | ELV - Marketing Partnerships | [3Wr4xyX1uXTtECKthaJBCAmnLDororJe18mMatTAsxsU](https://app.streamflow.finance/contract/solana/mainnet/3Wr4xyX1uXTtECKthaJBCAmnLDororJe18mMatTAsxsU) |
-| Staking Rewards | ELV - Staking Rewards Pool | [Staking on Elvor Exchange](https://elvor.net/staking) |
-| Public Sale | ELV - Public Sale | [Public Sale on Elvor Exchange](https://elvor.net) |
-| Community Airdrop | ELV - Community Airdrop | [Airdrop on Elvor Exchange](https://elvor.net) |
+| Staking Rewards | ELV - Staking Rewards Pool | [https://elvor.net/staking](https://elvor.net/staking) |
+| Public Sale | ELV - Public Sale | [https://elvor.net](https://elvor.net) |
+| Community Airdrop | ELV - Community Airdrop | [https://elvor.net](https://elvor.net) |
 
 ---
 
@@ -155,17 +177,6 @@ The ELVOR Community Airdrop is dedicated to ecosystem growth, early users, and c
 | Vested Amount | 80,000,000 ELV (80M) |
 | Release Schedule | Monthly |
 | Duration | 12 Months |
-
-## Airdrop Objectives
-
-- Early Community Rewards
-- Mobile App User Incentives
-- Trading Campaigns
-- Social Engagement Rewards
-- AI Platform Beta Participation
-- NFT Holder Incentives
-- Referral Programs
-- Ecosystem Expansion
 
 ---
 
@@ -343,6 +354,7 @@ Utility-focused NFT ecosystem.
 | Website | https://elvor.io |
 | AI Platform | https://elvor.ai |
 | Exchange | https://elvor.net |
+| Staking | https://elvor.net/staking |
 | Telegram | https://t.me/elvor_ai |
 | X | https://x.com/elvorsocial |
 | Discord | https://discord.gg/URUBr33Yr |
@@ -356,6 +368,8 @@ Utility-focused NFT ecosystem.
 This repository is provided for informational purposes only and does not constitute investment, financial, legal, or trading advice.
 
 Cryptocurrency assets involve risk, including potential loss of capital.
+
+Security reviews, contract visibility, vesting schedules, and audit references may reduce risk but do not guarantee that ELV or any digital asset is risk-free.
 
 Always conduct independent research before participating in digital asset ecosystems.
 
