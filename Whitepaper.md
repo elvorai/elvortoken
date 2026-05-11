@@ -12,6 +12,7 @@
 #### Official Ecosystem Platforms
 - https://elvor.ai
 - https://elvor.net
+- https://elvor.net/staking
 
 #### Official Communities
 - Telegram: https://t.me/elvor_ai
@@ -25,6 +26,9 @@ Solana
 
 #### Token Symbol
 ELV
+
+#### Contract Address
+[7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL)
 
 #### Version
 1.0
@@ -47,6 +51,8 @@ This document is provided for informational purposes only and does not constitut
 The ELV token is designed as a utility token intended for ecosystem participation, AI infrastructure access, trading benefits, staking mechanisms, governance systems, and platform interaction.
 
 Cryptocurrency investments involve substantial risk and may result in partial or total loss of capital.
+
+Security reviews, audit references, public contract visibility, and vesting transparency may reduce risk but do not guarantee that ELV or any digital asset is risk-free.
 
 Potential participants should conduct independent research and consult professional legal, financial, and tax advisors before engaging with digital assets.
 
@@ -114,6 +120,13 @@ A premium exchange ecosystem providing:
 - High-speed execution
 - Advanced order management
 - Professional trading interfaces
+
+---
+
+### Elvor Staking
+https://elvor.net/staking
+
+The official staking interface for ELV ecosystem participants.
 
 ---
 
@@ -338,15 +351,18 @@ https://elvor.ai
 ## 2. Elvor Exchange
 https://elvor.net
 
-## 3. Mobile Super App
+## 3. Elvor Staking
+https://elvor.net/staking
 
-## 4. NFT Marketplace
+## 4. Mobile Super App
 
-## 5. AI Bot Marketplace
+## 5. NFT Marketplace
 
-## 6. Social Trading Systems
+## 6. AI Bot Marketplace
 
-## 7. Mini App Ecosystem
+## 7. Social Trading Systems
+
+## 8. Mini App Ecosystem
 
 ---
 
@@ -535,6 +551,9 @@ Solana
 ## Token Type
 Utility & Governance
 
+## Contract Address
+[7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL)
+
 ## Total Supply
 10,000,000,000 ELV
 
@@ -551,6 +570,23 @@ ELV powers:
 - premium subscriptions
 - liquidity incentives
 - ecosystem participation
+
+---
+
+# Security & Transparency References
+
+| Token / Security Page | Link |
+|---|---|
+| ELV Contract Address | [7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Solscan Token Info | [View ELV on Solscan](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Cyberscope Cyberscan | [Scan ELV on Cyberscope](https://www.cyberscope.io/cyberscan?network=SOL&address=7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| GoPlus Solana Token Security | [Scan ELV on GoPlus](https://gopluslabs.io/en/token-security/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| DexScreener Token Page | [View ELV on DexScreener](https://dexscreener.com/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Birdeye Token Page | [View ELV on Birdeye](https://birdeye.so/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL?chain=solana) |
+| Jupiter Token Page | [View ELV on Jupiter](https://jup.ag/tokens/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Streamflow Vesting Transparency | [View Streamflow App](https://app.streamflow.finance) |
+
+Security reviews and transparency references are intended to support trust, public verification, and risk reduction. They do not eliminate all risks.
 
 ---
 
@@ -673,10 +709,25 @@ Security is a foundational priority within the Elvor ecosystem.
 
 # Smart Contract Security
 
-All contracts should undergo:
+ELVOR prioritizes contract transparency and external security review references, including:
+
+| Token / Security Page | Link |
+|---|---|
+| ELV Contract Address | [7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Solscan Token Info | [View ELV on Solscan](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Cyberscope Cyberscan | [Scan ELV on Cyberscope](https://www.cyberscope.io/cyberscan?network=SOL&address=7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| GoPlus Solana Token Security | [Scan ELV on GoPlus](https://gopluslabs.io/en/token-security/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| DexScreener Token Page | [View ELV on DexScreener](https://dexscreener.com/solana/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Birdeye Token Page | [View ELV on Birdeye](https://birdeye.so/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL?chain=solana) |
+| Jupiter Token Page | [View ELV on Jupiter](https://jup.ag/tokens/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL) |
+| Streamflow Vesting Transparency | [View Streamflow App](https://app.streamflow.finance) |
+
+All contracts and infrastructure should undergo:
 - professional audits
 - penetration testing
 - infrastructure review
+- token distribution transparency review
+- continuous monitoring where applicable
 
 ---
 
@@ -914,6 +965,9 @@ https://elvor.net
 
 ## Elvor Staking
 https://elvor.net/staking
+
+## ELV Contract
+[7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL](https://solscan.io/token/7QGnYbxU79rTcQt5TqF6y4R5XLcsSBnRtfjdnj8AtkqL)
 
 ---
 
